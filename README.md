@@ -36,12 +36,16 @@ StudentManagementSystemGUI/ │ ├─ Main.java          # Main class with GUI 
 
 ```bash
 git clone https://github.com/24a31a05bi/StudentManagementSystemGUI.git
+
 3. Navigate to the project folder in terminal/command prompt:
 cd StudentManagementSystemGUI
+
 4. Compile Java files:
 javac Main.java Student.java
+
 5. Run the project:
 java Main
+
 6. The GUI window will open. You can now interact with buttons to manage students.
 ---
 
@@ -51,5 +55,6 @@ java Main
 ---
 
 ✅ Acknowledgements
+
 Inspired by classic Student Management System projects
 Developed and designed by Sneha Addala
