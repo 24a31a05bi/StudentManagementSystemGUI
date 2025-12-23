@@ -18,7 +18,7 @@ This project allows users to manage student records easily by adding, removing, 
 
 ## 🖼 Screenshot
 
-Screenshot.png
+https://github.com/24a31a05bi/StudentManagementSystemGUI/blob/main/Screenshot.png
 
 > This is how the GUI window looks when the project is running.
 
